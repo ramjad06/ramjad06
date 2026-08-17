@@ -6,16 +6,16 @@
 ## Currently:
 ## • Building projects with Python
 ## • Learning AI/ML
-## • Preparing for Summer 2027 internships
+## • Developing my software engineering skills
 
-## Tech:
+## Technologies:
 ## Python | Java | Git | GitHub | JavaScript
 
 ## Projects:
 ## 🚧 VT Course Planner — coming soon
 
 ## Connect:
-## LinkedIn
+## [LinkedIn]([url](https://www.linkedin.com/in/rohail-amjad-328077387/))
 
 <!--
 **ramjad06/ramjad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
