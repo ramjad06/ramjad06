@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hey, I'm Rohail 👋
+
+## Computer Science student @ Virginia Tech
+## Interested in AI/ML & Software Engineering
+
+## Currently:
+## • Building projects with Python
+## • Learning AI/ML
+## • Preparing for Summer 2027 internships
+
+## Tech:
+## Python | Java | Git | GitHub | JavaScript
+
+## Projects:
+## 🚧 VT Course Planner — coming soon
+
+## Connect:
+## LinkedIn
 
 <!--
 **ramjad06/ramjad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
